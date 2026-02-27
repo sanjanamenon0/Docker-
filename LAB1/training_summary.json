@@ -1,0 +1,12 @@
+{
+  "model": "RandomForestClassifier",
+  "n_estimators": 100,
+  "test_accuracy": 1.0,
+  "trained_at": "2026-02-27T22:17:14Z",
+  "feature_importances": {
+    "sepal length (cm)": 0.1081,
+    "sepal width (cm)": 0.0304,
+    "petal length (cm)": 0.44,
+    "petal width (cm)": 0.4215
+  }
+}
